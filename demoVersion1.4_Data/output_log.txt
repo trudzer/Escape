@@ -1,0 +1,150 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4043 MB
+    Driver:   25.21.14.1722
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\demoVersion1.4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\demoVersion1.4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\demoVersion1.4_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading H:\demoVersion1.4_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: H:\demoVersion1.4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\demoVersion1.4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\demoVersion1.4_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading H:\demoVersion1.4_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: H:\demoVersion1.4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\demoVersion1.4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\demoVersion1.4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\demoVersion1.4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.013 seconds
+Platform assembly: H:\demoVersion1.4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\demoVersion1.4_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.691198 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 36e0 -> priority: 1 
+  Thread -> id: 3d78 -> priority: 1 
+  Thread -> id: 3978 -> priority: 1 
+  Thread -> id: 91c -> priority: 1 
+The referenced script on this Behaviour (Game Object 'chair (9)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'table (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'chair (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'GameContoler') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'chair (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'table') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'chair') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'table (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'chair (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'table (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.463493 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at LastPlayerSighting.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 4551.
+Total: 4.207493 ms (FindLiveObjects: 0.171235 ms CreateObjectMapping: 0.034702 ms MarkObjects: 0.389403 ms  DeleteObjects: 3.611868 ms)
+
+Loading Menu...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.017335 ms
+
+Unloading 145 unused Assets to reduce memory usage. Loaded Objects now: 944.
+Total: 4.698159 ms (FindLiveObjects: 0.058310 ms CreateObjectMapping: 0.017635 ms MarkObjects: 0.313741 ms  DeleteObjects: 4.307333 ms)
+
+The referenced script on this Behaviour (Game Object 'chair (9)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'table (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'chair (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'GameContoler') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'chair (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'table') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'chair') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'table (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'chair (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'table (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.550892 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at LastPlayerSighting.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 4588.
+Total: 5.203331 ms (FindLiveObjects: 0.184035 ms CreateObjectMapping: 0.045511 ms MarkObjects: 0.468194 ms  DeleteObjects: 4.504737 ms)
+
+Quitting game...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
